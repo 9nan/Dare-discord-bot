@@ -13,7 +13,7 @@ This Discord bot is designed to spice up your server with fun and unpredictable 
 ## Requirements
 
 - Node.js
-- Discord.js v13
+- Discord.js v14+
 
 ## Setup
 
@@ -66,4 +66,4 @@ If you encounter any issues or have suggestions, please open an issue on the Git
 
 ---
 
-**Note:** This bot uses Discord.js v13, which requires Node.js version 16.6.0 or newer. Ensure your environment meets these requirements.
+**Note:** This bot uses Discord.js v14+, which requires Node.js version 16.9.0 or newer. Ensure your environment meets these requirements.
